@@ -1,0 +1,9 @@
+# Ignore IPython checkpoints
+.ipynb_checkpoints/
+Week*/
+*yolo.h5
+*glove.6B.50d.txt
+*pretrained-model/
+*ResNet50.h5
+*pred_video.mp4
+*road_video.mp4
